@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+*, body{
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    background-color: gray;
+}
